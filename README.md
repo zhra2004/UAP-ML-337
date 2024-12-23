@@ -39,9 +39,11 @@ Preprocessing data adalah langkah awal yang penting untuk menyiapkan dataset seb
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/3d98fd93-c199-4574-b5d2-7e3b2d639225)
 
-Klasifikasi 0 : Tidak
+Klasifikasi 0 : High Risk
 
-Klasifikasi 1 : Ya
+Klasifikasi 1 : Low Risk
+
+Klasifikasi 3 : Moderate Risk
 
 ### BERT
 #### Preprocessing
@@ -54,6 +56,8 @@ Preprocessing data adalah langkah awal yang penting untuk menyiapkan dataset seb
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/5f05723c-4884-4a86-b0b8-9e0e14f9ec09)
 
-Klasifikasi 0 : Tidak
+Klasifikasi 0 : High Risk
 
-Klasifikasi 1 : Ya
+Klasifikasi 1 : Low Risk
+
+Klasifikasi 3 : Moderate Risk
