@@ -26,15 +26,18 @@ Machine Learning A
 Preprocessing data adalah langkah awal yang penting untuk menyiapkan dataset sebelum digunakan dalam model machine learning. Proses ini dimulai dengan pengecekan missing value untuk menangani data yang hilang, kemudian dilanjutkan dengan penghapusan tanda baca yang tidak relevan. Selanjutnya, case folding dilakukan untuk menyamakan seluruh teks dalam format huruf kecil agar konsisten, diikuti dengan penghapusan stopwords yang merupakan kata-kata umum yang tidak memberikan informasi signifikan. Tokenisasi kemudian digunakan untuk memecah teks menjadi unit terkecil seperti kata atau frasa. Terakhir, data dibagi menjadi dua bagian, yaitu 80% untuk pelatihan dan 20% untuk pengujian, guna memastikan model dilatih dengan baik dan diuji pada data yang belum pernah dilihat sebelumnya.
 
 #### Layer yang digunakan Long-Short Term Memory
-![image](https://github.com/user-attachments/assets/952f70b4-10d1-4709-9c61-c13cccc1f87d)
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/bcbc2021-cb92-4ed6-8287-d441eca1d1b6" />
+
 
 
 #### Distribusi pelabelan
-![image](https://github.com/user-attachments/assets/8dfd9c6f-1a66-425c-8d32-c2e9009411f4)
+![image](https://github.com/user-attachments/assets/7032ead1-6278-4eba-bc45-6d1575d37f38)
+
 
 
 #### Classification Report
-![image](https://github.com/user-attachments/assets/821d693d-5e15-4cbe-8660-2e9a0443f23b)
+![image](https://github.com/user-attachments/assets/2efac118-b065-49c6-9a06-5dbb77700659)
+
 
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/3d98fd93-c199-4574-b5d2-7e3b2d639225)
@@ -49,12 +52,17 @@ Klasifikasi 3 : Moderate Risk
 #### Preprocessing
 Preprocessing data adalah langkah awal yang penting untuk menyiapkan dataset sebelum digunakan dalam model machine learning. Proses ini dimulai dengan pengecekan missing value untuk menangani data yang hilang, kemudian dilanjutkan dengan penghapusan tanda baca yang tidak relevan. Selanjutnya, case folding dilakukan untuk menyamakan seluruh teks dalam format huruf kecil agar konsisten, diikuti dengan penghapusan stopwords yang merupakan kata-kata umum yang tidak memberikan informasi signifikan. Tokenisasi kemudian digunakan untuk memecah teks menjadi unit terkecil seperti kata atau frasa. Terakhir, data dibagi menjadi dua bagian, yaitu 80% untuk pelatihan dan 20% untuk pengujian, guna memastikan model dilatih dengan baik dan diuji pada data yang belum pernah dilihat sebelumnya.
 
+
 #### Classification Report
-![image](https://github.com/user-attachments/assets/ee7af99c-76c7-4bd5-b08d-6e1d1e184ea6)
+![image](https://github.com/user-attachments/assets/45a8cd30-469c-4154-855a-e12d727c8511)
 
 
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/5f05723c-4884-4a86-b0b8-9e0e14f9ec09)
+
+#### Learning Curve
+![image](https://github.com/user-attachments/assets/9e5c509e-6f69-407b-9d34-f7333949d697)
+
 
 Klasifikasi 0 : High Risk
 
