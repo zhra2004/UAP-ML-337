@@ -30,17 +30,23 @@ Preprocessing data adalah langkah awal yang penting untuk menyiapkan dataset seb
 
 
 
-#### Distribusi pelabelan
-![image](https://github.com/user-attachments/assets/7032ead1-6278-4eba-bc45-6d1575d37f38)
+#### Learning Curve
+![WhatsApp Image 2024-12-24 at 15 25 48_ab373a7d](https://github.com/user-attachments/assets/9110d657-f819-4c1b-812f-874be6d8a203)
+![WhatsApp Image 2024-12-24 at 15 26 17_d11d3a8e](https://github.com/user-attachments/assets/507e8de8-4689-471e-a33d-27aef8b0e925)
+
+
 
 
 
 #### Classification Report
-![image](https://github.com/user-attachments/assets/2efac118-b065-49c6-9a06-5dbb77700659)
+![WhatsApp Image 2024-12-24 at 15 24 06_77bbabbc](https://github.com/user-attachments/assets/37fbadd4-3f8d-4ae3-938a-505fc500a01f)
+
+
 
 
 #### Confusion Matrix
-![image](https://github.com/user-attachments/assets/3d98fd93-c199-4574-b5d2-7e3b2d639225)
+![image](https://github.com/user-attachments/assets/d4e34ec5-5dd7-45c5-9d10-71f72714cb9a)
+
 
 Klasifikasi 0 : High Risk
 
